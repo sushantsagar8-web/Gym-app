@@ -1,0 +1,20 @@
+Starting video analysis...
+Submitting video analysis task...
+Task submitted (ID: video-analysis-b2d2b5c7-f634-467c-aefe-de147491aa66)
+[7s] Status: Analysis completed
+[7s] Analysis completed!
+Full analysis result saved to: /home/ubuntu/fitpath-india/video_Man-obliques_analysis_20260814_083056.md
+Note: This tool performs AI-based visual and audio analysis, not verbatim transcription. For detailed speech transcription, use `manus-speech-to-text` instead.
+Analysis result:
+
+The video demonstrates the following exercise details:
+
+*   **Primary Exercise:** Bicycle Crunches.
+*   **Target Abdominal Region:** Obliques (specifically highlighted in the video’s UI and on the 3D model).
+*   **Exercise Type:** Repetitions (the text indicates a goal of 20 reps).
+*   **Visible Form and Safety Notes:**
+    *   Perform the movement lying on a flat, supportive surface (like a mat).
+    *   Hands are placed behind the head for support, but avoid pulling on the neck.
+    *   The movement involves alternating the rotation of the torso to bring the opposite elbow toward the incoming knee.
+    *   Keep the core engaged and the lower back pressed into the mat throughout the movement.
+    *   Legs should remain elevated and move in a fluid, cycling motion.

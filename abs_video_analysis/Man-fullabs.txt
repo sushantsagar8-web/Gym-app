@@ -1,0 +1,15 @@
+Starting video analysis...
+Submitting video analysis task...
+Task submitted (ID: video-analysis-c4cfc0f7-5093-4e10-8759-bd45e5f99391)
+[7s] Status: Analysis completed
+[7s] Analysis completed!
+Full analysis result saved to: /home/ubuntu/fitpath-india/video_Man-fullabs_analysis_20260814_083044.md
+Note: This tool performs AI-based visual and audio analysis, not verbatim transcription. For detailed speech transcription, use `manus-speech-to-text` instead.
+Analysis result:
+
+This video demonstrates the following exercise:
+
+- **Exercise**: Reverse Crunches
+- **Target Abdominal Region**: Full abs (specifically highlighting the lower abs during the movement)
+- **Type**: Repetitions (20 reps)
+- **Form/Safety Notes**: Lie flat on your back with arms at your sides for stability. Lift your legs and curl your knees toward your chest, lifting your hips off the floor at the peak of the movement. Lower your legs back down with control, keeping your lower back pressed against the mat.

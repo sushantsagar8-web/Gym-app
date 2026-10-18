@@ -1,0 +1,15 @@
+Starting video analysis...
+Submitting video analysis task...
+Task submitted (ID: video-analysis-95c27c6c-e38f-4998-9245-9f107ae4660e)
+[6s] Status: Analysis completed
+[6s] Analysis completed!
+Full analysis result saved to: /home/ubuntu/fitpath-india/video_Man-upper_analysis_20260814_083106.md
+Note: This tool performs AI-based visual and audio analysis, not verbatim transcription. For detailed speech transcription, use `manus-speech-to-text` instead.
+Analysis result:
+
+The video demonstrates a common abdominal exercise with the following details:
+
+*   **Primary Exercise:** Crunches.
+*   **Target Abdominal Region:** Upper and full abdominal muscles (Rectus Abdominis). The video highlights this area with a green selection box at the top and a glowing pink/purple effect on the 3D model's midsection during the movement.
+*   **Repetitions/Hold:** The exercise is performed for **30 repetitions**, as indicated by the on-screen text.
+*   **Form Notes:** The individual is lying on their back on a mat with knees bent and feet flat. Hands are placed behind the head, and the upper torso is lifted off the ground in a controlled manner while the lower back remains in contact with the mat.

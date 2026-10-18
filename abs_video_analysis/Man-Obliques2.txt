@@ -1,0 +1,15 @@
+Starting video analysis...
+Submitting video analysis task...
+Task submitted (ID: video-analysis-c7d34dc8-4df3-42b9-8bc7-ba4cb91a5ad5)
+[6s] Status: Analysis completed
+[6s] Analysis completed!
+Full analysis result saved to: /home/ubuntu/fitpath-india/video_Man-Obliques2_analysis_20260814_083032.md
+Note: This tool performs AI-based visual and audio analysis, not verbatim transcription. For detailed speech transcription, use `manus-speech-to-text` instead.
+Analysis result:
+
+This video demonstrates **Side Plank Hip Lifts**, a core exercise focusing on the **obliques**.
+
+*   **Primary Exercise:** Side Plank Hip Lifts (Right side).
+*   **Target Region:** Obliques (highlighted in the muscle diagrams).
+*   **Format:** Repetitions (15 reps indicated).
+*   **Form Notes:** The individual maintains a side plank position supported by the forearm and the sides of the feet, performing controlled vertical lifts of the hips.

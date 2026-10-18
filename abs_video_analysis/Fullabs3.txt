@@ -1,0 +1,15 @@
+Starting video analysis...
+Submitting video analysis task...
+Task submitted (ID: video-analysis-73bc73c5-bba4-4332-8616-85092c5f32f3)
+[7s] Status: Analysis completed
+[7s] Analysis completed!
+Full analysis result saved to: /home/ubuntu/fitpath-india/video_Fullabs3_analysis_20260814_083021.md
+Note: This tool performs AI-based visual and audio analysis, not verbatim transcription. For detailed speech transcription, use `manus-speech-to-text` instead.
+Analysis result:
+
+The video demonstrates the following exercise:
+
+*   **Primary Exercise:** Leg Lifts
+*   **Target Abdominal Region:** Full Abs (as indicated by the highlighted muscle group in the UI and the glowing area on the model)
+*   **Movement Type:** Repetitions (10 repetitions are specified in the text)
+*   **Form/Safety Notes:** The exercise is performed lying flat on a mat with legs straight. The legs are lifted to a vertical position and lowered in a controlled manner without touching the floor between reps. Hands are placed flat by the sides for stability.

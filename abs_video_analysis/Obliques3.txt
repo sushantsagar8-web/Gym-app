@@ -1,0 +1,10 @@
+Starting video analysis...
+Submitting video analysis task...
+Task submitted (ID: video-analysis-817794c6-0c5b-44ae-bfac-0fb39514c6ed)
+[5s] Status: Analysis completed
+[5s] Analysis completed!
+Full analysis result saved to: /home/ubuntu/fitpath-india/video_Obliques3_analysis_20260814_083137.md
+Note: This tool performs AI-based visual and audio analysis, not verbatim transcription. For detailed speech transcription, use `manus-speech-to-text` instead.
+Analysis result:
+
+The primary exercise demonstrated in this video is Russian Twists. The target abdominal region is the obliques, as indicated by the highlighted areas on the 3D model and the diagram at the top. The clip shows repetitions, specifically calling for 40 Russian Twists. The movement involves sitting on a mat with legs extended, leaning back slightly, and rotating the torso from side to side.

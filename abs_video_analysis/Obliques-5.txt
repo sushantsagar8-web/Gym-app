@@ -1,0 +1,15 @@
+Starting video analysis...
+Submitting video analysis task...
+Task submitted (ID: video-analysis-c698fd49-980c-478a-bccf-5fa255d8196b)
+[6s] Status: Analysis completed
+[6s] Analysis completed!
+Full analysis result saved to: /home/ubuntu/fitpath-india/video_Obliques-5_analysis_20260814_083127.md
+Note: This tool performs AI-based visual and audio analysis, not verbatim transcription. For detailed speech transcription, use `manus-speech-to-text` instead.
+Analysis result:
+
+The video demonstrates the following exercise:
+
+*   **Primary Exercise:** Oblique V-Ups (Right side).
+*   **Target Abdominal Region:** Obliques (side abdominals), as highlighted in the anatomical diagrams.
+*   **Repetitions or Timed Hold:** Repetitions (the video indicates a set of 15).
+*   **Form and Safety Notes:** The exercise is performed lying on the side, propped up on one forearm for stability. The legs and upper body are lifted simultaneously in a crunching motion to target the obliques, with the free arm reaching toward the feet. The movement is controlled to ensure maximum engagement of the side abdominal muscles.

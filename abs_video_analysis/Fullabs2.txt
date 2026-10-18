@@ -1,0 +1,15 @@
+Starting video analysis...
+Submitting video analysis task...
+Task submitted (ID: video-analysis-411b2add-cf34-4945-b319-5ce14ce7b0a7)
+[5s] Status: Analysis completed
+[5s] Analysis completed!
+Full analysis result saved to: /home/ubuntu/fitpath-india/video_Fullabs2_analysis_20260814_083008.md
+Note: This tool performs AI-based visual and audio analysis, not verbatim transcription. For detailed speech transcription, use `manus-speech-to-text` instead.
+Analysis result:
+
+This video demonstrates a core exercise:
+
+* **Primary Exercise:** Reverse Crunches
+* **Target Abdominal Region:** Full abs
+* **Repetitions or Timed Hold:** Repetitions (20)
+* **Form/Safety Notes:** Lie flat on your back with arms by your sides for stability. Lift your legs and curl your hips toward your chest, then slowly lower them back down without letting your feet touch the floor to maintain tension.

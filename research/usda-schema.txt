@@ -1,0 +1,15 @@
+
+ nutrient.csv ['id', 'name', 'unit_name', 'nutrient_nbr', 'rank']
+  id                              name unit_name  nutrient_nbr  rank
+2047  Energy (Atwater General Factors)      KCAL           957 280.0
+2048 Energy (Atwater Specific Factors)      KCAL           958 290.0
+
+ food_nutrient.csv ['id', 'fdc_id', 'nutrient_id', 'amount', 'data_points', 'derivation_id', 'min', 'max', 'median', 'footnote', 'min_year_acquired']
+     id  fdc_id  nutrient_id  amount  data_points  derivation_id  min  max  median  footnote  min_year_acquired
+1283674  167512         1003    5.88            1             46  NaN  NaN     NaN       NaN                NaN
+1283675  167512         1007    3.50            1             46  NaN  NaN     NaN       NaN                NaN
+
+ sr_legacy_food.csv ['fdc_id', 'NDB_number']
+ fdc_id  NDB_number
+ 167512       18634
+ 167513       18635
